@@ -8,7 +8,7 @@ Inspired by: [Alex Anistratov](https://dribbble.com/shots/1008644-Files-html-css
 ## Using:
 
 	For Windows:
-		http://defaultprogramseditor.com/
+		[DefaultProgramsEditor](http://defaultprogramseditor.com/)
 
 	For Mac:
 

@@ -3,6 +3,8 @@ A library of Programming Icons
 
 Inspired by: [Alex Anistratov](https://dribbble.com/shots/1008644-Files-html-css-php-js)
 
+![Icons Preview](http://jocolina.com/picons/picons.png)
+
 ## Using:
 
 	For Windows:
@@ -22,5 +24,5 @@ You will have to ungroup the icon to free the text, and ungroup it again to free
 
 
 ## Making the .ico files
-	[ConvertIcon](http://converticon.com/)
+[ConvertIcon](http://converticon.com/)
 	

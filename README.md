@@ -3,6 +3,7 @@ A library of Programming Icons
 
 ## Using:
 	For windows:
+		http://defaultprogramseditor.com/
 	For Mac:
 	For Linux:
 
@@ -14,4 +15,8 @@ A library of Programming Icons
 	To modify icons, you can copy an existing one by holding ALT while moving the existing icon. 
 
 	You will have to ungroup the icon to free the text, and ungroup it again to free the shadow and folding.
+
+
+## Making the .ico files
+	http://converticon.com/
 	
